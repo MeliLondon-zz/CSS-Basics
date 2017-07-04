@@ -1,14 +1,9 @@
-
 body {
   color: #878787;
   margin: 0;
 }
 
-header {
-  background-color: orange;
-}
-
-h1 {
+h1 {  
   font-size: 90px;
   color: white;
 }
@@ -22,7 +17,6 @@ h3 {
   color: #48525c;
 }
 
-
 #main-footer {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -33,12 +27,37 @@ h3 {
   background-color: orange;
 }
 
+.title {
+  color: white;
+  font-size: 26px;
+}
+
 .primary-content {
   text-align: center;
 }
 
-.secondary-content {
+.t-border {
   border-top: 2px solid lightgrey;
 }
 
 
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: lightblue;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: lightcoral;
+}
+
+a:focus {
+  color: white;
+  background-color: orange;
+}
