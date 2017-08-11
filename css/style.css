@@ -11,7 +11,7 @@ h1 {
   color: rgba(255, 255, 255, 1);
   text-transform: uppercase;
   font-weight: normal;
-  line-height: 1.3; 
+  line-height: 1.3;
 }
 
 h2 {
@@ -51,6 +51,7 @@ a:active {
 
 .main-header {
   background-color: #ffa949;
+  height: 850px;
 }
 
 .title {
@@ -88,9 +89,6 @@ a:active {
   display: inline-block;
 }
 
-
-
-
 .main-footer {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -114,5 +112,9 @@ a:active {
   background-color: #434a52;
   padding: 18% 24%;
   border-top: 10px solid #ffa949;
-  margin: 105px 0 60px;  
+  margin: 105px 0 60px;
+}
+
+.arrow {
+  width: 50px;
 }
