@@ -1,4 +1,3 @@
 # CSS-Basics
-CSS basics track from Treehouse
-
+CSS basics course, part of the Front End Web development track
 Sierra Nevada's webpage
